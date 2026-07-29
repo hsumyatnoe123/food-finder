@@ -268,11 +268,7 @@
 
             getfoodbyid(getidmeal);
         }
-        <!-- Git tip: if you see 'src refspec main does not match any' when pushing,
-             initialize a commit before pushing: 
-             git add l34foodfinder.html
-             git commit -m "Initial commit"
-             git push -u origin main -->
+       
         
        })
 
